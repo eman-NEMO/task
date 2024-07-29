@@ -6,7 +6,7 @@ body{
     height: 100%;
     background-repeat: no-repeat;
 }
-#Header{
+
     .navbar{
         background-color: #011b22 !important;
     }
@@ -34,11 +34,11 @@ body{
         color: white !important;
         font-size: 20px !important;
     } 
-}
 
 
 
-#Home{
+
+
     
 .text{
     color: white ;
@@ -82,5 +82,4 @@ body{
 .social_icon:hover{
     background-color: #f4aa41;
     transition: .4s;
-}
 }
