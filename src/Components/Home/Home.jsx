@@ -65,7 +65,7 @@ export default function Home() {
             </div>
             </motion.div>
             <motion.div variants={variants.fromIts} initial="hidden" animate="visible" transition={{ delay: 1.7 ,duration:.8 }}>
-            <div className="social mt-5 d-flex justify-content-center mb-5">
+            <div className="social mt-5 d-flex justify-content-center mb-4">
             {socialMedia.map((platform, index) => (
                 <div
                     key={index}
