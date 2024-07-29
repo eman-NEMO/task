@@ -1,5 +1,4 @@
-body{
-    background-color: #011b22 !important;
+.back_img{
     background-image: url('../Assets/main_background.jpg');
     background-position: 100% 100%;
     background-size: cover !important;
