@@ -43,7 +43,7 @@ export default function Home() {
     transition={{ type: "tween", duration: .7 ,delay:.3 }}
   >
         <div className='Home_content' id='Home'>
-        <motion.div variants={variants.fromTop} initial="hidden" animate="visible" transition={{ delay: .5 ,duration:.5 }}>
+        <motion.div variants={variants.fromIts} initial="hidden" animate="visible" transition={{ delay: .5 ,duration:.5 }}>
             <div className='text text-center'>
                 <p>BECOME A PART OF THE
                     <span className="fade-text">  AMAZING </span>
