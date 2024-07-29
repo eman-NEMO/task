@@ -5,6 +5,7 @@ body{
     background-size: cover !important;
     height: 100%;
     background-repeat: no-repeat;
+    overflow-y: hidden;
 }
 
     .navbar{
